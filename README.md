@@ -101,16 +101,15 @@
 · [🔗 Repo](https://github.com/FixerSoup/Chart-Analysis-Churn-Based-Report)
 
 ----------------------------------------------------------------------------------------------------
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FixerSoup&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FixerSoup&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FixerSoup&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=FixerSoup&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FixerSoup&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FixerSoup&layout=compact&theme=radical" height="165" />
 </p>
 
 ----------------------------------------------------------
