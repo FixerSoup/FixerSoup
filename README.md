@@ -27,7 +27,7 @@
 
 ### 🧭 About Me
 
-- 🔭 I'm currently working on **Time Series/Demand Forecasting for Store Item Demand dataset** — [Working on this project to deeply understand Time series and demand forecasting from the dataset and get hands on experience to predict stuffs for betterment of it]
+- 🔭 I'm currently working on **Time Series/Demand Forecasting for Store Item Demand dataset** — Working on this project to deeply understand Time series and demand forecasting from the dataset and get hands on experience to predict stuffs for betterment of it
 - 🌱 Deepening my fundamentals in **Machine Learning Algorithms**
 - 🤖 Exploring how **AI agents** can speed up and improve the quality of data science workflows — from automated EDA to insight generation
 - 📊 Love taking messy, real-world datasets and turning them into **insights that solve actual problems** — not just notebooks that sit unused
