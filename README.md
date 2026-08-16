@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ai_agent_banner_v2.svg" width="100%"/>
+</p>
 <h1 align="center">Hi there, I'm SOUPTIK 👋</h1>
 
 <h3 align="center">Aspiring Data Scientist & AI Engineer | Turning Data Into Decisions</h3>
