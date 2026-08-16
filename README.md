@@ -105,9 +105,8 @@
 
 ### 🎯 Currently Learning
 -------------------------------
-`[e.g. Time-series forecasting]
-`[RAG Pipelines]
-`[AUtomation Software N8nN]
+- RAG Pipelines
+- Automation Software N8nN 
 
 ### 🤝 Let's Connect & Build Something
 
