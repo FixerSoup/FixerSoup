@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi there, I'm SOUPTIK 👋</h1>
 
-<h3 align="center">Aspiring Data Scientist & AI Engineer | Turning Data Into Decisions</h3>
+<h3 align="center">AI Engineer | Turning Data Into Decisions</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/souptikmitra">
