@@ -106,7 +106,8 @@
 ### 🎯 Currently Learning
 -------------------------------
 - RAG Pipelines
-- Automation Software N8nN 
+- Automation Software n8n
+- Building an decoder only LLM from scratch
 
 ### 🤝 Let's Connect & Build Something
 
