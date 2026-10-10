@@ -159,7 +159,7 @@
 
     <text x="470" y="165" fill="#c8d6f0" font-size="18" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="9s" repeatCount="indefinite"/>
-      🚀 AI Engineer Data Scientist &amp; ML Engineer
+      🚀 AI Engineer &amp; ML Engineer
     </text>
 
     <!-- stat bars, gamified -->
